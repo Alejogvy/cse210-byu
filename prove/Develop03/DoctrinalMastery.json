@@ -1,0 +1,209 @@
+[
+    {
+        "Reference": {
+            "Book": "Matthew",
+            "Chapter": 5,
+            "StartVerse": 14,
+            "EndVerse": 16
+        },
+        "Text": "Let your light so shine before men."
+    },
+    {
+        "Reference": {
+            "Book": "Matthew",
+            "Chapter": 11,
+            "StartVerse": 28,
+            "EndVerse": 30
+        },
+        "Text": "Come unto me, all ye that labour and are heavy laden, and I will give you rest."
+    },
+    {
+        "Reference": {
+            "Book": "Matthew",
+            "Chapter": 16,
+            "StartVerse": 15,
+            "EndVerse": 19
+        },
+        "Text": "Jesus said, 'I will give unto thee the keys of the kingdom.'"
+    },
+    {
+        "Reference": {
+            "Book": "Matthew",
+            "Chapter": 22,
+            "StartVerse": 36,
+            "EndVerse": 39
+        },
+        "Text": "Thou shalt love the Lord thy God. Thou shalt love thy neighbour."
+    },
+    {
+        "Reference": {
+            "Book": "Luke",
+            "Chapter": 2,
+            "StartVerse": 10,
+            "EndVerse": 12
+        },
+        "Text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord."
+    },
+    {
+        "Reference": {
+            "Book": "Luke",
+            "Chapter": 22,
+            "StartVerse": 19,
+            "EndVerse": 20
+        },
+        "Text": "Jesus Christ commanded, partake of the sacrament in remembrance of me."
+    },
+    {
+        "Reference": {
+            "Book": "Luke",
+            "Chapter": 24,
+            "StartVerse": 36,
+            "EndVerse": 39
+        },
+        "Text": "For a spirit hath not flesh and bones, as ye see me have."
+    },
+    {
+        "Reference": {
+            "Book": "John",
+            "Chapter": 3,
+            "StartVerse": 5
+        },
+        "Text": "Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
+    },
+    {
+        "Reference": {
+            "Book": "John",
+            "Chapter": 3,
+            "StartVerse": 16
+        },
+        "Text": "For God so loved the world, that he gave his only begotten Son."
+    },
+    {
+        "Reference": {
+            "Book": "John",
+            "Chapter": 7,
+            "StartVerse": 17
+        },
+        "Text": "If any man will do his will, he shall know of the doctrine."
+    },
+    {
+        "Reference": {
+            "Book": "John",
+            "Chapter": 17,
+            "StartVerse": 3
+        },
+        "Text": "And this is life eternal, that they might know thee the only true God, and Jesus Christ."
+    },
+    {
+        "Reference": {
+            "Book": "1 Corinthians",
+            "Chapter": 6,
+            "StartVerse": 19,
+            "EndVerse": 20
+        },
+        "Text": "Your body is the temple of the Holy Ghost."
+    },
+    {
+        "Reference": {
+            "Book": "1 Corinthians",
+            "Chapter": 11,
+            "StartVerse": 11
+        },
+        "Text": "Neither is the man without the woman, neither the woman without the man, in the Lord."
+    },
+    {
+        "Reference": {
+            "Book": "1 Corinthians",
+            "Chapter": 15,
+            "StartVerse": 20,
+            "EndVerse": 22
+        },
+        "Text": "As in Adam all die, even so in Christ shall all be made alive."
+    },
+    {
+        "Reference": {
+            "Book": "1 Corinthians",
+            "Chapter": 15,
+            "StartVerse": 40,
+            "EndVerse": 42
+        },
+        "Text": "In the Resurrection, there are three degrees of glory."
+    },
+    {
+        "Reference": {
+            "Book": "Ephesians",
+            "Chapter": 1,
+            "StartVerse": 10
+        },
+        "Text": "In the dispensation of the fulness of times he might gather together in one all things in Christ."
+    },
+    {
+        "Reference": {
+            "Book": "Ephesians",
+            "Chapter": 2,
+            "StartVerse": 19,
+            "EndVerse": 20
+        },
+        "Text": "The Church is built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone."
+    },
+    {
+        "Reference": {
+            "Book": "2 Thessalonians",
+            "Chapter": 2,
+            "StartVerse": 1,
+            "EndVerse": 3
+        },
+        "Text": "The day of Christ … shall not come, except there come a falling away first."
+    },
+    {
+        "Reference": {
+            "Book": "2 Timothy",
+            "Chapter": 3,
+            "StartVerse": 15,
+            "EndVerse": 17
+        },
+        "Text": "The holy scriptures … are able to make thee wise unto salvation."
+    },
+    {
+        "Reference": {
+            "Book": "Hebrews",
+            "Chapter": 12,
+            "StartVerse": 9
+        },
+        "Text": "Heavenly Father is the Father of spirits."
+    },
+    {
+        "Reference": {
+            "Book": "James",
+            "Chapter": 1,
+            "StartVerse": 5,
+            "EndVerse": 6
+        },
+        "Text": "If any of you lack wisdom, let him ask of God."
+    },
+    {
+        "Reference": {
+            "Book": "James",
+            "Chapter": 2,
+            "StartVerse": 17,
+            "EndVerse": 18
+        },
+        "Text": "Faith, if it hath not works, is dead."
+    },
+    {
+        "Reference": {
+            "Book": "1 Peter",
+            "Chapter": 4,
+            "StartVerse": 6
+        },
+        "Text": "The gospel [was] preached also to them that are dead."
+    },
+    {
+        "Reference": {
+            "Book": "Revelation",
+            "Chapter": 20,
+            "StartVerse": 12
+        },
+        "Text": "And the dead were judged … according to their works."
+    }
+]
