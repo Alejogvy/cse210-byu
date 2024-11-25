@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.Json;
 
+/* I exceeded the requirements by using "using System.Text.Json;" to perform data serialization and deserialization 
+to read a JSON file in which I added 25 verses that are write domains.*/
+
 class Program
 {
     static void Main(string[] args)
