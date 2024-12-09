@@ -12,9 +12,9 @@ class Program
             Console.WriteLine("Welcome to the mindfulness activity!");
             Console.WriteLine("This activity will help you reflect and relax, find a comfortable place and let's get started.");
             Console.WriteLine("Choose an activity:");
-            Console.WriteLine("1. Breathing Activity");
-            Console.WriteLine("2. Reflection Activity");
-            Console.WriteLine("3. Listing Activity");
+            Console.WriteLine("1. Breathing");
+            Console.WriteLine("2. Reflection");
+            Console.WriteLine("3. Listing");
             Console.WriteLine("4. Exit the program");
 
             string choice = Console.ReadLine();
