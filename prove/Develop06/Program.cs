@@ -2,7 +2,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Eternal manager = new Eternal();
+        EternalQuest manager = new EternalQuest();
         manager.Run();
     }
 }

@@ -1,13 +1,13 @@
 using System;
 using System.Collections.Generic;
 
-public class Eternal
+public class EternalQuest
 {
     private List<Goal> _goals;
     private int _totalPoints;
     private bool _bonusAwarded;
 
-    public Eternal()
+    public EternalQuest()
     {
         _goals = new List<Goal>
         {
